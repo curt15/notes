@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[PYTHON]]
 Rel: [[python 3rd party packages]]
 Ref: [docs](https://www.python-httpx.org/)
+Tags: #public 
 
 like [[requests]], but supports async
 

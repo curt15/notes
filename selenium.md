@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python 3rd party packages]]
 Ref: [docs](https://selenium-python.readthedocs.io/); -> drivers (e.g. [geckodriver](https://github.com/mozilla/geckodriver/releases))
+Tags: #public 
 
 Selenium with Python (gui/browser automation)
 

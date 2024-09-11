@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[TECHNOLOGY]] - [[PYTHON]]
 Rel: [[html]]
 Ref: https://daringfireball.net/projects/markdown/syntax
+Tags: #public 
 
 --- 
 

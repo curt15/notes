@@ -1,5 +1,6 @@
 Links: [[INDEX]] - [[TECHNOLOGY]]
 Ref: [pi hole](https://pi-hole.net)
+Tags: #public 
 
 https://www.raspberrypi.org/documentation/configuration/security.md
 

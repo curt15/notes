@@ -1,5 +1,6 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[virtualenv]]
+Tags: #public 
 
 --- 
 

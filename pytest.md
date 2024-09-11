@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[PYTHON]]
 Rel: [[Python Testing with pytest (Brian Okken)]]
 Ref: [docs](https://docs.pytest.org/en/6.2.x/)
+Tags: #public 
 
 testing in [[PYTHON]] 
 

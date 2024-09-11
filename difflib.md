@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python standard library]]
 Ref: https://docs.python.org/3/library/difflib.html
+Tags: #public 
 
 --- 
 ```py

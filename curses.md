@@ -2,6 +2,7 @@ Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python standard library]]
 Ref: https://docs.python.org/3/howto/curses.html
 - https://docs.python.org/3/howto/curses.html#attributes-and-color
+Tags: #public 
 
 --- 
 

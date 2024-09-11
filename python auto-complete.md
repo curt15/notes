@@ -1,4 +1,8 @@
 Links: [[PYTHON]]
+Rel:
+Ref: 
+Tags: #public 
+
 
 - [[subl]]ime text w/ jedi
 

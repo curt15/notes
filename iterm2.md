@@ -2,7 +2,7 @@ Links: ...
 Rel: [[Terminal]]; [[applescript]]; [[pnano]]
 Ref: [docs](https://iterm2.com/documentation-scripting.html) (for use with applescript "depreciation warning" = maintenance and no planned feature additions)
 - https://dev.to/vivekkodira/automate-a-multi-window-experience-on-iterm2-2j9e
-- 
+Tags: #public 
 
 --- 
 [[PYTHON]]

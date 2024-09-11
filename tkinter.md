@@ -2,6 +2,7 @@ Links: [[PROGRAMMING]] - [[PYTHON]]
 Rel: [[tkhtmlview]]; [[python standard library]]
 Ref: [docs](https://docs.python.org/3/library/tkinter.html) ; [keysyms recognized by Tk](https://www.tcl.tk/man/tcl8.4/TkCmd/keysyms.html)
 - https://stackoverflow.com/questions/37383755/keyboard-shortcuts-with-tkinter-in-python-3 (had issues getting multi-key press responses)
+Tags: #public 
 
 builtin interface to the Tk GUI toolkit 
 

@@ -5,6 +5,7 @@ Ref: [docs](https://docs.djangoproject.com/en/)
 - [django-tables2](https://django-tables2.readthedocs.io/en/latest/pages/installation.html)
 - [django-filter](https://django-filter.readthedocs.io/en/stable/guide/install.html)
 - [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/install.html)
+Tags: #public 
 
 Django (web framework)
 

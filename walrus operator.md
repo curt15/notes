@@ -1,5 +1,6 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
-Ref: [[python standard library]]
+Rel: [[python standard library]]
 Ref: 
+Tags: #public 
 
 --- 

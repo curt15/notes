@@ -1,5 +1,7 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[macos]]; [[linux]]; [[windows]]; [[commands]]
+Ref: 
+Tags: #public 
 
 --- 
 ifconfig /all - "know your network" - document your network ID, router, DNS, etc.' "run before things go bad, so when it does, you know what supposed to look like"

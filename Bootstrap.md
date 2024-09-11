@@ -6,6 +6,7 @@ Ref: https://getbootstrap.com/
 - https://getbootstrap.com/docs/4.0/utilities/colors/
 - https://getbootstrap.com/docs/4.0/components/buttons/
 - [Bootstrap Magic : Generate your own Bootstrap themes quickly and easily](https://pikock.github.io/bootstrap-magic/)
+Tags: #public 
 
 --- 
 

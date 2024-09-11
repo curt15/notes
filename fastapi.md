@@ -3,6 +3,7 @@ Rel: [[tortoise-orm]], [[jinja2]], [[aiofiles]], [[python-decouple]], [[python-m
 Ref: [home](https://fastapi.tiangolo.com/); [tutorial](https://fastapi.tiangolo.com/tutorial/); [dependency Injection](https://fastapi.tiangolo.com/tutorial/dependencies/)
 - https://stackoverflow.com/questions/67774905/make-depends-optional-in-fastapi-python <- didn't work
 - https://github.com/encode/starlette/issues/538#issuecomment-780608541 <- solved url_for http -> https absolute static path issue.
+Tags: #public 
 
 --- 
 

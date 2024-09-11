@@ -4,6 +4,7 @@ Ref: [home](https://www.vim.org/)
 - [vimwiki](https://vimwiki.github.io/); https://nickjanetakis.com/blog/writing-and-previewing-markdown-in-real-time-with-vim-8
 - vim surrounds - close brackets etc. 
 - space vim - https://spacevim.org/
+Tags: #public 
 
 --- 
 

@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]]
 Ref: https://www.w3schools.com/html/
 Rel: [[css]]; [[Bootstrap]]
+Tags: #public 
 
 --- 
 

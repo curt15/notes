@@ -1,5 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
-Ref: [[python standard library]]; [[builtins]]
+Rel: [[python standard library]]; [[builtins]]
+Ref: 
+Tags: #public 
 
 --- 
 super() - best used to access parent methods when overwriting, but still want access, specifically handy as without having to name the MRO parent of which accessing. 

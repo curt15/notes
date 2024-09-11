@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[TECHNOLOGY]]
-Refs: [ss64](https://ss64.com/osx/crontab.html),  https://ole.michelsen.dk/blog/schedule-jobs-with-crontab-on-mac-osx/
 Rel: [[macos]]
+Refs: [ss64](https://ss64.com/osx/crontab.html),  https://ole.michelsen.dk/blog/schedule-jobs-with-crontab-on-mac-osx/
+Tags: #public 
 
 macos: /var/at/tabs/
 

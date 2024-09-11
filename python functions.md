@@ -1,6 +1,6 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python decorators]]
-Tags: #private 
+Tags: #public 
 
 --- 
 

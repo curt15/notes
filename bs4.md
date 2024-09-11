@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[PYTHON]]
 Rel: [[python 3rd party packages]]
 Ref: [docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [lxml](https://lxml.de/)
+Tags: #public 
 
 Beautiful Soup
 parsing HTML (for web scraping)

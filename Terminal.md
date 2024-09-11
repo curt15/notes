@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[TECHNOLOGY]]
 Rel: [[macos]]
 Ref: https://ss64.com/osx
+Tags: #public 
 
 --- 
 #### macOS DHCP release renew commands

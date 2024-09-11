@@ -2,6 +2,7 @@ Links: [[TECHNOLOGY]]
 Rel: [[macos]]; [[linux]]; [[command-line interface]]
 Ref: 
 - O365: https://www.office.com/
+Tags: #public 
 
 --- 
 - [[commands]] in ...

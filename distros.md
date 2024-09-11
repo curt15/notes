@@ -1,4 +1,7 @@
 Links: [[TECHNOLOGY]]
+Rel: 
+Ref: 
+Tags: #public 
 
 --- 
 \- Ubuntu - “gold standard”, modern GUI, ultimately non-“open source”, but nice out of box

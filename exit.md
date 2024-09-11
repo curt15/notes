@@ -1,5 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
+Rel: 
 Ref: [[python standard library]]; [[builtins]]; [[commands]]
+Tags: #public 
 
 --- 
 **exit()** - leave the Python interpreter, return to shell

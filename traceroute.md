@@ -1,5 +1,9 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[macos]]; [[linux]]; [[commands]]
+Ref: 
+Tags: #public 
+
+--- 
 
 windows = [[tracert]]
 

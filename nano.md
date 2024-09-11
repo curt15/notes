@@ -3,6 +3,9 @@ Rel: [[nanorc]]; [[vi]]; [[emacs]]; [[macos]]; [[linux]]
 Ref: https://www.nano-editor.org/docs.php
 - repo: https://git.savannah.gnu.org/cgit/nano.git
 - https://en.wikipedia.org/wiki/GNU_nano
+Tags: #public 
+
+--- 
 
 ```man nano```
 ```man nanorc```

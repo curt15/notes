@@ -1,6 +1,6 @@
 Links: [[PROGRAMMING]] - [[TECHNOLOGY]]
 Rel: [[macos]]; [[linux]]; [[windows]]
-Tags: #private 
+Tags: #public  
 
 shared cli stuff
 

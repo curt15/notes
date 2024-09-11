@@ -1,5 +1,7 @@
 Links: [[TECHNOLOGY]]
+Rel: 
 Ref: https://github.com/ccrisan/motioneyeos/wiki
+Tags: #public 
 
 ---
 

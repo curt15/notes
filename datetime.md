@@ -1,5 +1,7 @@
 Links: [[PYTHON]]
+Rel: 
 Ref: https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes <-- go here
+Tags: #public 
 
 --- 
 

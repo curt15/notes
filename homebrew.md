@@ -3,6 +3,7 @@ Rel: [[macos]]
 Ref: 
 - https://brew.sh/
 - https://github.com/Homebrew/brew
+Tags: #public 
 
 --- 
 

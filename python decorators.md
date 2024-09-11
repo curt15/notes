@@ -2,6 +2,9 @@ Links: [[PYTHON ]] - [[PROGRAMMING]]
 Rel: [[python functions]]; [[property]] - @property is a decorator
 Ref: 
 - https://stackoverflow.com/questions/308999/what-does-functools-wraps-do
+Tags: #public 
+
+--- 
 
 ```from functools import wraps```
 

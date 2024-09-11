@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python standard library]]
 Ref: [docs](https://docs.python.org/3/library/subprocess.html);
+Tags: #public 
 
 --- 
 ```py

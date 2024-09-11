@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[pip]]
 Ref: https://www.python.org/downloads/
+Tags: #public 
 
 --- 
 

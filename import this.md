@@ -1,7 +1,7 @@
 
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: ```import antigravity``` -> https://xkcd.com/353/
-Tags: #cont 
+Tags: #cont #public 
 
 --- 
 

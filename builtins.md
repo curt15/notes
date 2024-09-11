@@ -1,6 +1,7 @@
 Links: [[ INDEX ]] - [[ PYTHON ]]
 Rel: [[ python imports ]]; [[python standard library]]
 Ref: https://docs.python.org/3/library/functions.html
+Tags: #public 
 
 --- 
 exploring the Python 

@@ -1,5 +1,8 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python fun]]
+Ref: 
+Tags: #public 
+
 
 These are snippets from simpletools that don't have a home (but seemed worth keeping)
 

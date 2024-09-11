@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python 3rd party packages]]
 Ref: [home](https://dash.plotly.com/)
+Tags: #public 
 
 dash (dashboards w/ [[plotly]]) 
 

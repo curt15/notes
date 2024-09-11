@@ -1,4 +1,9 @@
 Links: [[ INDEX ]] - [[ PYTHON ]]
+Rel: 
+Ref: 
+Tags: #public 
+
+--- 
 
 str is a \_\_builtin\_\_ *type*
 

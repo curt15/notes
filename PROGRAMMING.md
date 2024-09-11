@@ -1,6 +1,6 @@
 Links: [[INDEX]]
 Rel: 
-Tags: #private 
+Tags: Tags: #public 
 Ref: [github](https://github.com/); [stackoverflow](https://stackoverflow.com/); [stackexchange](https://stackexchange.com/)
 
 --- 

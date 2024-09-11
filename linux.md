@@ -1,6 +1,8 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[macos]]; [[windows]]; [[command-line interface]]
 - [[pi hole]]
+Ref: 
+Tags: #public 
 
 --- 
 - [[echo]] "hello world"

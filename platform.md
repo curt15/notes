@@ -1,5 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
+Rel: 
 Ref: [[python standard library]]
+Tags: #public 
 
 ```import platform```
 

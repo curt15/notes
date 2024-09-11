@@ -8,6 +8,7 @@ Ref:
 - https://rich.readthedocs.io/en/latest/console.html#paging
 - https://izziswift.com/is-there-a-way-to-make-a-link-clickable-in-the-osx-terminal/
 - https://github.com/lepture/mistune
+Tags: #public 
 
 wiki system for nano 
 

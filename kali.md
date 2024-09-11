@@ -1,5 +1,6 @@
 Links: [[TECHNOLOGY]]
 Rel: [[security]]
+Tags: #public 
 
 --- 
 

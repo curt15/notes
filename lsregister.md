@@ -1,6 +1,9 @@
 Links: 
 Rel: [[macos]]
 Ref: https://apple.stackexchange.com/questions/397187/what-are-all-of-the-uri-schemes-available-on-macos
+Tags: #public 
+
+--- 
 
 ```/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -dump URLSchemeBinding``` (```> urlbindings.txt```)
 

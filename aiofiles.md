@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[asyncio]]; [[fastapi]]
 Ref: [docs](https://pypi.org/project/aiofiles/)
+Tags : #public 
 
 --- 
 

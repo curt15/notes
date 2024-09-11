@@ -5,6 +5,7 @@ Ref: https://www.pypa.io/en/latest/
 - -> https://pypi.org/
 - ... https://packaging.python.org/guides/using-manifest-in/#using-manifest-in
 - https://test.pypi.org/
+Tags: #public 
 
 --- 
 https://packaging.python.org/tutorials/packaging-projects/

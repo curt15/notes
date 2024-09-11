@@ -1,5 +1,7 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[windows]]; [[commands]]
+Ref: 
+Tags: #public 
 
 --- 
 diskpart - a command-line tool w/ ability to do anything to mass storage (alone=interactive prompt)

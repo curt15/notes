@@ -1,4 +1,9 @@
 Links: [[INDEX]] - [[PYTHON ]]
+Rel: 
+Ref: 
+Tags: #public 
+
+--- 
 
 [[python decorators]] - @property is a decorator
 

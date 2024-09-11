@@ -1,6 +1,8 @@
 Links: [[PROGRAMMING]]
+Rel: 
 Ref: https://www.w3schools.com/js/default.asp
 - [string](https://www.w3schools.com/jsref/jsref_obj_string.asp); [string - mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+Tags: #public 
 
 typescript - is type checking 
 

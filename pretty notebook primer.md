@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[prettynb]]
 Ref: [github](https://github.com/prettynb/)
+Tags: #public 
 
 --- 
 

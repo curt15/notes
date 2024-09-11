@@ -1,6 +1,7 @@
 Links: [[PYTHON]]
 Rel: 
 Ref: [return self](https://stackoverflow.com/questions/43380042/purpose-of-return-self-python)
+Tags: #public 
 
 --- 
 

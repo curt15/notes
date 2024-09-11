@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]]
 Rel: [[git]]
 Ref: https://docs.gitea.io/en-us
+Tags: #public 
 
 192.168.1.13
 database - Thisdatarata!

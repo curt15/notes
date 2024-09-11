@@ -1,6 +1,7 @@
 Links:	[[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python 3rd party packages]]
 Ref: [home](https://kivy.org/#home); [docs](https://kivy.org/doc/stable/); [reStructuredText renderer](https://kivy.org/doc/stable/api-kivy.uix.rst.html); 
+Tags: #public 
 
  kivy (multi-touch apps) 
  

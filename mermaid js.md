@@ -3,7 +3,7 @@ Ref: https://mermaid-js.github.io/mermaid/#/; https://github.com/mermaid-js/merm
 - https://github.com/mermaid-js/mermaid/blob/develop/docs/Setup.md#mermaidapi-configuration-defaults
 - https://mermaid-js.github.io/mermaid-live-editor/
 - https://github.com/mermaid-js/mermaid/tree/master/src/themes
-Tags: #private #prog 
+Tags: #public  #prog 
 
 --- 
 Mermaid js chart generation

@@ -1,4 +1,5 @@
 Links: [[PROGRAMMING]] - [[TECHNOLOGY]]
+Tags: #public 
 
 --- 
 

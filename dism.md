@@ -1,5 +1,7 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[windows]]; [[commands]]
+Ref: 
+Tags: #public 
 
 --- 
 dism /online /cleanup-image /restorehealth - "Deployment Image Servicing & Management" - goes online to Microsoft, finds your running version, compares to your system store, fixes any problems.

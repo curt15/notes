@@ -1,5 +1,7 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[macos]]; [[linux]]; [[commands]]
+Ref: 
+Tags: #public 
 
 --- 
 dd = heavy-lifting, bit-by-bit copy

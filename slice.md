@@ -1,5 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
-Ref: [[python standard library]]; [[builtins]]
+Rel: [[python standard library]]; [[builtins]]
+Ref: 
+Tags: #public 
 
 --- 
 slice() -> 

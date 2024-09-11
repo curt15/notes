@@ -5,6 +5,7 @@ Ref:
 - https://certifications.apple.com/  
 - ASM: https://school.apple.com/
 - GSX: https://gsx2-new.apple.com/  
+Tags: #public 
 
 --- 
 

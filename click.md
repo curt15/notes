@@ -1,5 +1,6 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
-Ref: [docs](https://click.palletsprojects.com/en/8.0.x/); [complex applications](https://click.palletsprojects.com/en/8.0.x/complex/); [values from environment variables](https://click.palletsprojects.com/en/8.0.x/options/#values-from-environment-variables)
+Rel: 
+Ref: [docs](https://click.palletsprojects.com/en/8.0.x/); [complex applications](https://click.palletsprojects.com/en/8.0.x/complex/); [values from environment variables](https://click.palletsprojects.com/en/8.0.x/options/#values-from-environment-variables)Tags: #public 
 
 command-line interfaces 
 

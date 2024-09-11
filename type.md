@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[object]]
-Refs: https://docs.python.org/3.8/library/functions.html#type
+Ref: https://docs.python.org/3.8/library/functions.html#type
+Tags: #public 
 
 cmd.exe cmd ~= [[cat]] (...)
 ```

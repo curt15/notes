@@ -7,6 +7,7 @@ Ref: [applescript key codes](https://eastmanreference.com/complete-list-of-apple
 - [Terminal do script](https://discussions.apple.com/thread/1903907)
 - (Terminal and) [[iterm2]] 's **do shell script**
 - [[iterm2]] best = **write text "text"** for executing command in current window (it returns)
+Tags: #public 
 
 --- 
 

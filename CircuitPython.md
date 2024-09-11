@@ -1,5 +1,7 @@
 Links: [[PROGRAMMING]] - [[TECHNOLOGY]]
+Rel: 
 Ref: https://circuitpython.org/
+Tags: #public 
 
 --- 
 

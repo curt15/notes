@@ -1,3 +1,5 @@
+Tags: #public 
+
 [[ssh]]
 [[scp]]
 

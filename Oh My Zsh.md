@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[TECHNOLOGY]]
 Rel: [[macos]]
 Ref: https://ohmyz.sh/; https://github.com/ohmyzsh/ohmyzsh/wiki
+Tags: #public 
 
 --- 
 install:

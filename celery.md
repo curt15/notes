@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[PYTHON]]
 Rel: [[python 3rd party packages]]
 Ref: [docs](https://docs.celeryproject.org/en/stable/index.html)
+Tags: #public 
 
 Distributed Task Queue 
 

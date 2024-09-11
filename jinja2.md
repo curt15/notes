@@ -1,6 +1,7 @@
 Links: [[WEB]] - [[PROGRAMMING]] - [[PYTHON]]
 Rel: [[html]]; [[fastapi]]; [[django]]; 
 Ref: [docs](https://jinja2docs.readthedocs.io/en/stable/)
+Tags: #public 
 
 --- 
 ```pip install jinja2```

@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]]
 Rel: 
 Ref: https://git-scm.com/download/
+Tags: #public 
 
 --- 
 installing git:

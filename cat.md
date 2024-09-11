@@ -1,5 +1,7 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[macos]]; [[linux]]; [[commands]]; [[type]]
+Ref: 
+Tags: #public 
 
 --- 
 cat - 

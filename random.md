@@ -1,5 +1,7 @@
 Links: [[PYTHON]]
 Rel: [[python standard library]]
+Ref: 
+Tags: #public 
 
 ```import random```
 

@@ -1,5 +1,6 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[macos]]; [[linux]]; [[commands]]
+Tags: #public 
 
 --- 
 rm - remove (file/path)

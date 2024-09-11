@@ -1,6 +1,7 @@
 Links: [[PYTHON]]
+Rel: 
 Ref: https://pydantic-docs.helpmanual.io/; https://docs.python.org/3/library/typing.html
-
+Tags: #public 
 
 --- 
 ```from pydantic import BaseModel```

@@ -10,6 +10,7 @@ Ref: [docs](https://rich.readthedocs.io/en/stable/introduction.html); [github](h
 	- this only works for actual path links, file:/// uri's still open to default app...
 	- https://github.com/willmcgugan/rich/blob/master/examples/fullscreen.py (panel system)
 - [BUG - Live view flickering on Windows](https://github.com/willmcgugan/rich/issues/1024)
+Tags: #public 
 
 rich text in the terminal
 

@@ -1,5 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
+Rel:
 Ref: https://docs.python.org/3/library/webbrowser.html
+Tags: #public 
 
 --- 
 

@@ -7,6 +7,7 @@ Ref: ...
 	- -> [.../apache-2.0/](https://choosealicense.com/licenses/apache-2.0/)
 - https://opensource.org/
 	- -> [.../BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause)
+Tags: #public 
 
 --- 
 

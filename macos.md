@@ -1,8 +1,8 @@
 Links: [[TECHNOLOGY]]
 Rel: [[linux]]; [[windows]]
-Tags: 
 Refs: 
 - https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_control_statements.html
+Tags: #public 
 
 --- 
 - [[Terminal]].app - default [[command-line interface]]

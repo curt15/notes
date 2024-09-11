@@ -1,6 +1,7 @@
 Links: [[PROGRAMMING]] - [[PYTHON]]
 Rel: [[python 3rd party packages]]
 Ref: [docs](https://pandas.pydata.org/docs/); [API reference](https://pandas.pydata.org/docs/reference/index.html)
+Tags: #public 
 
 pandas (~= headless spreadsheets)
 

@@ -1,6 +1,7 @@
 Links: [[ INDEX ]] - [[ PYTHON ]]
 Rel: [[python standard library]]
 id: [[bs4]]
+Tags: #public 
 
 --- 
 ...

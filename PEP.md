@@ -1,7 +1,7 @@
 Links: [[PYTHON]]
 Rel: 
 Ref: https://www.python.org/dev/peps/#introduction
-Tags: #cont
+Tags: #public #cont
 
 Python Enhancement Proposals (PEPs)
 

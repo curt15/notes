@@ -1,5 +1,7 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
-Rel: [[windows]]; [[commands]]
+Rel: [[windows]]; [[commands]] 
+Ref: 
+Tags: #public 
 
 --- 
 del - delete

@@ -1,6 +1,7 @@
 Links: [[PYTHON]] - [[PROGRAMMING]]
 Rel: [[python 3rd party packages]]
 Ref: https://plotly.com/python/
+Tags: #public 
 
 --- 
 **plotly3dmesh.py**

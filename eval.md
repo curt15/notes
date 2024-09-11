@@ -1,5 +1,7 @@
 Links: [[PROGRAMMING]] - [[PYTHON]]
 Rel: [[python standard library]] [[builtins]]
+Ref: 
+Tags: #public 
 
 --- 
 #### eval()

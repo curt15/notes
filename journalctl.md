@@ -1,6 +1,7 @@
 Links:
 Rel: [[systemctl]]
 Ref:
+Tags: #public 
 
 ```sh
 journalctl -e

@@ -1,5 +1,7 @@
 Links: [[TECHNOLOGY]] - [[PROGRAMMING]]
 Rel: [[windows]]; [[commands]]
+Ref: 
+Tags: #public 
 
 --- 
 icacls - program to change NTFS permissions
